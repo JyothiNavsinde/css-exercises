@@ -2,3 +2,12 @@
     background-color: rgba(8, 2, 2, 0.815);
     color: white;
 }
+
+.second {
+    background-color: yellow;
+}
+
+.common {
+    font-family: 'Times New Roman',Helvetica, sans-serif ;
+    font-size: 28px;
+}
