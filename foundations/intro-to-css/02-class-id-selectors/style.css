@@ -2,3 +2,18 @@
     font-family : verdana,"DejaVu Sans", serif;
     background-color: hsla(0, 69%, 70%, 0.904);
 }
+
+#second {
+    font-size: 32px;
+    color: blue;
+}
+
+.A.sub {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: hsla(101, 69%, 70%, 0.904);
+    font-size: 24px;
+    font-weight: bold;
+}
